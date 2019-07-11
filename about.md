@@ -4,23 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Sandip Agrawal. 
+Hi! My name is Sandip Agrawal.
 
-I am a software developer/consultant based in San Francisco. I am passionate about building web applications and am always in the lookout for interesting project ideas. You can learn about some of the projects I have worked on [here](/projects).
+I am a **Machine Learning / Full Stack Engineer** based out of San Francisco. I am passionate about building scalable web applications and using machine learning to solve interesting problems.
 
-I am currently working as a software engineer at OnSports. Before OnSports, I worked as a software consultant at TriTek Solutions. The opinions expressed here represent my own and not those of my employer.
+Previously, I have worked at both big companies (Google, Yahoo!) and smaller startups (DriveInformed, OnSports).
 
-I completed my Master's with specialization in Machine Learning from Georgia Tech. I did my undergraduate degree from Duke University with a major in Electrical & Computer Engineering, and Biomedical Engineering. I also studied abroad for a summer in Geneva, Switzerland.
+I completed my Master's degree in Computer Science with a specialization in Machine Learning from Georgia Tech. I did my undergraduate degree from Duke University with a major in Electrical & Computer Engineering, and Biomedical Engineering.
 
-I was born in Nepal and moved to United States for my undergraduate degree in 2006 and have been here since then. I speak English, Nepali and Hindi fluently.
+I was born and raised in Nepal but have been living in US since 2006.
 
-
-Soccer enthusiast, sunset chaser, dancing machine, high on life. 
-  
- 
 
 #### Elsewhere on the web:
-[facebook](https://www.facebook.com/sandipsola)  
-[linkedin](https://www.linkedin.com/in/sandipagrawal/)  
-[twitter](https://twitter.com/sandipagr)  
+[linkedin](https://www.linkedin.com/in/sandipagrawal/)
+
+[facebook](https://www.facebook.com/sandipsola)
+
+[twitter](https://twitter.com/sandipagr)
 
