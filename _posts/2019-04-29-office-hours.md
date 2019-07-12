@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pick my brain / AMA
+title:  Office Hours / Friendly Chat
 date:   2019-04-29
 ---
 
@@ -21,10 +21,10 @@ I’ve been a software engineer for the last 8+ years focusing on Web Applicatio
 - discuss technical aspects of a project you want to build
 
 ### Travel
-I have travelled full time for 2-3 years visiting 33 countries spanning 5 continents.
+I have travelled full time for 2-3 years visiting 38 countries spanning 5 continents.
 
  - get ideas/inspiration for travel
  - collecting airline miles (and never paying for flights) or finding cheap flights
  - traveling on a budget
 
-To find a time to chat, email me at **chat@sandipagrawal.com** with a little note about you and what you are interested in talking about!
+To find a time to chat, email me at **chat@sandipagrawal.com** with a little note about yourself and what you are interested in talking about!

@@ -4,6 +4,7 @@ title: Home
 ---
 
 <div class="posts">
+  <p>...</p>
   {% for post in paginator.posts %}
   <div class="post">
     <h3 class="post-title">
@@ -11,7 +12,6 @@ title: Home
     </h3>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
     {% comment %} {{ post.content }} {% endcomment %}
   </div>
   {% endfor %}

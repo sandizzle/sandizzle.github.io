@@ -2,6 +2,7 @@
 layout: post
 title:  First year as a Freelancer (Digital Nomad?!)
 date:   2019-02-01
+hero:   /public/img/sandip-nz-cook.jpg
 ---
 
 In February 2018, I decided to leave my job and travel the world. I had done a year of traveling in 2016 as well but this time I wanted to do some freelance work on the go and try out this whole digital nomad thing. In this post, I am sharing some of my experiences of freelancing while traveling the world.
@@ -30,7 +31,9 @@ My main focus last year was to travel and only freelance here and there so it wa
 ...
 ## Finding a place to work
 
-To be productive, it's very important to have a comfortable place to work. Availability of Wifi, power outlets, comfortable chair/table and proper lighting/ambience are important for me to be able to work properly. It can be sometimes really difficult to find such places when you are always on the move. These are some tools/places that I have found useful:
+![Working in a hammock ](/public/img/sandip-hammock.jpg)
+
+To be productive, it's important to have a comfortable place to work. While it's cool to imagine working on the beach while drinking your favorite tropical drink, it's not very practical. Availability of Wifi, power outlets, comfortable chair/table and proper lighting/ambience are some important factors. It can be sometimes really difficult to find such places when you are always on the move. These are some tools/places that I have found useful:
 
 - **[Workfrom](https://workfrom.co/):** This is a crowdsourced app that contains list of places that are near you that you can work from (mostly cafes). You can find quality of Wifi, availability of outlets and user reviews to help you pick the right place. This came in super handy and I used it often.
 

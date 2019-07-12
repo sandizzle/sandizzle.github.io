@@ -14,7 +14,10 @@
   .wrap {
     width: calc(100% - 280px)
   }
+}
 
+.masthead {
+  margin-bottom: 1rem;
 }
 
 .posts .post {
@@ -28,6 +31,10 @@
 .sidebar-item {
   text-align: center;
 }
+
+
+
+
 /* .wrap,
 .sidebar,
 .sidebar-toggle {
