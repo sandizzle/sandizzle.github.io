@@ -14,8 +14,7 @@ I’d like to however keep it informal and low pressure. We can talk about absol
 ### Computer Programming
 I’ve been a software engineer for the last 8+ years focusing on Web Applications, and more recently, Machine Learning. I completed my undergrad in Electrical & Computer Engineering from Duke University and my masters in Computer Science with a specialization in Machine Learning from Georgia Tech. I have previously worked at both big companies ([Google](https://www.youtube.com/), [Yahoo](https://www.yahoo.com/)) and small startups ([DriveInformed](https://www.driveinformed.com/), Hitpost).
 
-- how to become a software engineer
-- leveling up as a programmer
+- how to get started as a software engineer and/or leveling up
 - deep dive on certain programming techniques, technologies and/or tools
 - working as a remote freelancer (digital nomad)
 - discuss technical aspects of a project you want to build
@@ -24,7 +23,7 @@ I’ve been a software engineer for the last 8+ years focusing on Web Applicatio
 I have travelled full time for 2-3 years visiting 38 countries spanning 5 continents.
 
  - get ideas/inspiration for travel
- - collecting airline miles (and never paying for flights) or finding cheap flights
+ - collecting airline miles for free flights (only applicable for US residents) or finding cheap flights
  - traveling on a budget
 
-To find a time to chat, email me at **chat@sandipagrawal.com** with a little note about yourself and what you are interested in talking about!
+To find a time to chat, email me at **chat@sandipagrawal.com** with a note about yourself and what you are interested in talking about!

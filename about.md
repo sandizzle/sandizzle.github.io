@@ -4,21 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Hi! My name is Sandip Agrawal.
+Hi! I'm Sandip.
 
 I am a **Machine Learning / Full Stack Engineer** based out of San Francisco. I am passionate about building scalable web applications and using machine learning to solve interesting problems.
 
-Previously, I have worked at both big companies (Google, Yahoo!) and smaller startups (DriveInformed, OnSports).
+Previously, I have worked at both big companies ([Google](https://www.youtube.com/), [Yahoo](https://www.yahoo.com/)) and smaller startups ([DriveInformed](https://www.driveinformed.com/), OnSports).
 
 I completed my Master's degree in Computer Science with a specialization in Machine Learning from Georgia Tech. I did my undergraduate degree from Duke University with a major in Electrical & Computer Engineering, and Biomedical Engineering.
 
-I was born and raised in Nepal but have been living in US since 2006.
+I was born and raised in Nepal but have been living in US since 2006. I love traveling and so far have been to *38* countries.
 
 
-#### Elsewhere on the web:
-[linkedin](https://www.linkedin.com/in/sandipagrawal/)
-
-[facebook](https://www.facebook.com/sandipsola)
-
-[twitter](https://twitter.com/sandipagr)
+[linkedin](https://www.linkedin.com/in/sandipagrawal/){:target="_blank"} -- [facebook](https://www.facebook.com/sandipsola){:target="_blank"} -- [twitter](https://twitter.com/sandipagr){:target="_blank"}
 
