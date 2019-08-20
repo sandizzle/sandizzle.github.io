@@ -58,9 +58,3 @@ One of the cons of being an independent contractor is that you aren't eligible t
 
 
 It has been an incredible experience overall. I genuinely love both programming and traveling so being able to do them together has been quite fulfilling.
-
-
-
-
-
-
