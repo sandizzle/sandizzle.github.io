@@ -23,9 +23,9 @@ This is one of the hardest part about freelancing on the go. It's hard to get yo
 
 My main focus last year was to travel and only freelance here and there so it was fine but I am planning on freelancing a bit more this year. To address this problem, most digital nomads stay at a place for 1-3 months. And this does really help. I spent about 2-4 weeks each in Sicily, New York, Miami and New Orleans and was able to get lot done in these periods. I also found I am very productive when I am somewhere with not much to do. I absolutely crushed it &#128512; during a week at my hometown in Nepal, or during the 3 days of rainy weather in Wellington. I was able to complete two projects in those period working almost 10hrs/day.
 
-### Billed hours
+<!-- ### Billed hours
 I worked a total of **349 hours** in 2018 which comes to be about **~30 hours/month**. Here's the distribution:
-![Billed hour distribution](/public/img/2018-freelance-hours.png)
+![Billed hour distribution](/public/img/2018-freelance-hours.png) -->
 
 ...
 ## Finding a place to work
